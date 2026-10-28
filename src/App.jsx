@@ -8,7 +8,7 @@ import classroom from "./assets/classroom.jpg";
 // ---- Edit all site content here ----
 const TRUST = {
   name: "Amarapoondi Rainbow Kalviyiyal Podhu Dharma Arakkattalai",
-  school: "Rainbow Matriculation School",
+  school: "Rainbow Nursery and Primary School",
   email: "rainbowcharitabletrustamp@gmail.com",
   phone: "9751226258",
   president: "Ravi S",
